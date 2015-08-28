@@ -9,4 +9,5 @@ Installation
 ------------
 You will need to have the AVR toolchain instead on your system. This includes:
 * avr-gcc
+* avr-libc
 * avrdude
