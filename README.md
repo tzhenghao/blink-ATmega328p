@@ -8,5 +8,5 @@ A simple LED blinking project that uses the AVR toolchain without the Arduino ID
 Installation
 ------------
 You will need to have the AVR toolchain instead on your system. This includes:
-1. avr-gcc
-2. avrdude
+* avr-gcc
+* avrdude
